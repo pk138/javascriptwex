@@ -6,3 +6,9 @@ console.log(c);
          console.log("Hello praveen")
          console.log("Hello praveen kumar")
         }
+
+
+
+ console.log(" Hello shivam");
+ 
+
