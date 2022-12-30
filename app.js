@@ -20,5 +20,6 @@ else {
     console.log("the value of a is not equal");
 }
 
- 
+  console.log("Gretting! Hello new  year");
+  
 
