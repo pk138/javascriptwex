@@ -19,7 +19,7 @@ console.log(c);
 else {
     console.log("the value of a is not equal");
 }
-
+console.log("Greeting!  hello christmas")
   console.log("Gretting! Hello new  year");
-  
+
 
