@@ -12,6 +12,13 @@ console.log(c);
  console.log(" Hello shivam");
   console.log("hello shubham sharma");
    console.log("who made chages");
+   a=30;
+     if (a=30){
+       console.log("Value of a is equal")
+     }
+else {
+    console.log("the value of a is not equal");
+}
 
  
 
