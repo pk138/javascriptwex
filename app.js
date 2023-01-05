@@ -22,5 +22,4 @@ else {
 console.log("Greeting!  hello christmas")
   console.log("Gretting! Hello new  year");
 abc 
-
-
+ def
